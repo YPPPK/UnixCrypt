@@ -11,4 +11,4 @@ You can find the demo at the 'test' folder.
 See the [LICENSE][license] file.
 
 [apache unix crypt]: https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/digest/UnixCrypt.html
-[license]: https://github.com/YPPPK/unix_crypt/LICENSE
+[license]: https://github.com/YPPPK/unix_crypt/blob/master/LICENSE
