@@ -1,0 +1,7 @@
+name: unix_crypt
+description: A new flutter module project.
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0"
