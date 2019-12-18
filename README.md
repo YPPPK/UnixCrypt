@@ -1,6 +1,6 @@
 ## UnixCrypt
 
-This project was writed with pure dart code, it transform [apache unix crypt][apache unix crypt].
+This project was writed with pure dart code, it transform [apache unix crypt][apache unix crypt] of java.
 
 ## Support
 It support salt crypt string.
