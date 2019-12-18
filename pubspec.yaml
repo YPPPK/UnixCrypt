@@ -3,5 +3,8 @@ description: A new flutter module project.
 
 version: 1.0.0
 
+author: Dart Team <misc@dartlang.org>
+homepage: https://github.com/YPPPK/unix_crypt
+
 environment:
   sdk: ">=2.1.0"
