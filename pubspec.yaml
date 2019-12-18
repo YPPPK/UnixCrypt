@@ -1,6 +1,6 @@
 name: unix_crypt
 description: A unix crypt of apache for Dart, which supports salt crypt string.
-version: 1.0.0
+version: 1.0.1
 author: YPPPK <820235991@qq.com>
 homepage: https://github.com/YPPPK/unix_crypt
 
